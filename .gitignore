@@ -1,0 +1,6 @@
+__pycache__
+.ipynb_checkpoints
+# Anlegen mit python -m venv .env --system-site-packages
+.env
+
+.vscode
